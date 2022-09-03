@@ -1,0 +1,7 @@
+devid=dragonruby
+devtitle=DragonRuby LLC
+gameid=dragonruby_vr_tracking
+gametitle=DragonRuby VR Tracking
+version=1.0
+icon=metadata/icon.png
+vrmode=3
